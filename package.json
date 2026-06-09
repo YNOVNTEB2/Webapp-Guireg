@@ -6,6 +6,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "mssql": "^12.5.5",
     "serve": "^14.2.0"
   }
 }
